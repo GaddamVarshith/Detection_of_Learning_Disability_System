@@ -25,7 +25,7 @@ To install and run the Detection of Learning Disability System, follow these ste
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/detection-of-learning-disability.git
+    git clone [https://github.com/yourusername/detection-of-learning-disability.git](https://github.com/GaddamVarshith/Detection_of_Learning_Disability_System.git)
     cd detection-of-learning-disability
     ```
 
