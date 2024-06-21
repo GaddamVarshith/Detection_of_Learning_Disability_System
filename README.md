@@ -14,7 +14,7 @@
 The Detection of Learning Disability System is a machine learning-based project aimed at identifying learning disabilities in students using various classification models. This system evaluates the performance of different algorithms to determine the most effective model for detecting learning disabilities with limited data.
 
 ## Features
-- Preprocessing of input data
+- Preprocessing of input data.
 - Training and testing of multiple machine learning models.
 - Evaluation of model performance using metrics such as accuracy, precision, recall, F1 score, and kappa score
 - Cross-validation to ensure model robustness
