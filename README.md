@@ -18,7 +18,7 @@ The Detection of Learning Disability System is a machine learning-based project 
 - Training and testing of multiple machine learning models.
 - Evaluation of model performance using metrics such as accuracy, precision, recall, F1 score, and kappa score.
 - Cross-validation to ensure model robustness.
-- Detailed performance reports and visualization.
+- Detailed performance reports and visualization
 
 ## Installation
 To install and run the Detection of Learning Disability System, follow these steps:
